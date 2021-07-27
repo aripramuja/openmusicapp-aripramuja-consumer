@@ -18,7 +18,7 @@ class MailSender {
       from: "openmusic Apps Ari Pramuja",
       to: targetEmail,
       subject: "Ekspor Playlists",
-      text: "Terlampir hasil dari ekspor Playlists",
+      text: "Terlampir hasil dari ekspor playlist anda",
       attachments: [
         {
           filename: "playlists.json",
